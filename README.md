@@ -34,6 +34,7 @@
 ## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha256-bot&layout=compact&theme=tokyonight)
+C++, Python
 
 ---
 
