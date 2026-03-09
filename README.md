@@ -3,7 +3,7 @@
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
 💻 Passionate about AI, Machine Learning, and Software Development  
 🚀 Building projects like **WebGuard**, **HarmoniChat**, and **Genuinify**  
-🎯 Goal: Software Engineer in FAANG  
+
 
 ---
 
